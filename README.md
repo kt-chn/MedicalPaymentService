@@ -1,7 +1,8 @@
 ## プロダクト名
 
 医療機関-外国人旅行者間を対象とした**暗号通貨ペイメントサービス**  
-2019年度enPiTで作業した[リポジトリ](https://github.com/enpitut2019/MedicalPaymentService)のフォークです
+2019年度enPiTで作業した[リポジトリ](https://github.com/enpitut2019/MedicalPaymentService)のフォークです  
+気が向いたら作業するかも
 
 ## 発表会スライド
 https://docs.google.com/presentation/d/1ZpHKxm3ida9B00HpQViCwTHCRqs_eFQh7jUEpa-E2_4/edit?usp=sharing
@@ -11,11 +12,11 @@ https://docs.google.com/presentation/d/1ZpHKxm3ida9B00HpQViCwTHCRqs_eFQh7jUEpa-E
 
 ## デモ
 
-病院（ipad） https://kt-chn.github.io/MedicalPaymentService/hospital-client/dist/
+病院（ipad） https://ktchnm.github.io/MedicalPaymentService/hospital-client/dist/
 
-患者（スマホ） https://kt-chn.github.io/MedicalPaymentService/patient-client/dist/
+患者（スマホ） https://ktchnm.github.io/MedicalPaymentService/patient-client/dist/
 
-暗号通貨送金テスト用のウォレット https://kt-chn.github.io/MedicalPaymentService/erc20token-sender/dist/
+暗号通貨送金テスト用のウォレット https://ktchnm.github.io/MedicalPaymentService/erc20token-sender/dist/
 
 ### 動作環境
 
